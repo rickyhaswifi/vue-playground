@@ -1,0 +1,1134 @@
+[
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034688114?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "401 W Van Buren St",
+      "country": "United States",
+      "city": "Phoenix",
+      "latitude": "33.4512811",
+      "name": "The Van Buren",
+      "location": "Phoenix, AZ",
+      "postal_code": "85003",
+      "region": "AZ",
+      "longitude": "-112.0792443"
+    },
+    "starts_at": "2025-06-13T20:00:00",
+    "artist": {
+      "thumb_url": "https://photos.bandsintown.com/thumb/15781616.jpeg",
+      "mbid": "",
+      "facebook_page_url": "",
+      "image_url": "https://photos.bandsintown.com/large/15781616.jpeg",
+      "tracker_count": 125617,
+      "tracking": [],
+      "upcoming_event_count": 28,
+      "url": "https://www.bandsintown.com/a/15368990?came_from=267&app_id=7c181a04ee16c73b5d5cd448362f12a6",
+      "support_url": "",
+      "show_multi_ticket": true,
+      "name": "Eslabon Armado",
+      "options": {
+        "display_listen_unit": false
+      },
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "type": "itunes",
+          "url": "https://music.apple.com/us/artist/eslabon-armado/1482429034"
+        },
+        {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B07YQFKF61"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eslabon_Armado"
+        },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/eslabonarmadooficial"
+        },
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/eslabonarmado"
+        },
+        {
+          "type": "shazam",
+          "url": "https://www.shazam.com/artist/-/1482429034?utm_source=bandsintown"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/channel/UCE7RM8YvsgoJdXvYsWn2wbw"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/eslabonarmadooficial/"
+        },
+        {
+          "type": "tiktok",
+          "url": "https://www.tiktok.com/@eslabonarmadooficial"
+        }
+      ],
+      "artist_optin_show_phone_number": false,
+      "id": "15368990"
+    },
+    "festival_datetime_display_rule": "",
+    "description": "DOORS: 7PM SHOW: 8PM Please Note: This event is 13+ (Ages 5-12 must be accompanied by a parent/legal guardian. Children 4 and under not admitted.) *BAG POLICY* - Bags up to 12\" x 6\" x 12\" are allowed in the venue (NO BACKPACKS) - All bags will be searched prior to entry - Bags that are not clear will be subject to additional search All support acts are subject to change without notice.",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034688114?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-06-13T20:00:00",
+    "on_sale_datetime": "2025-03-20T12:00:00",
+    "sold_out": false,
+    "id": "1034688114",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034840107?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "3800 Mill Rd",
+      "country": "United States",
+      "city": "Paso Robles",
+      "latitude": "35.6462402",
+      "name": "Vina Robles Amphitheatre",
+      "location": "Paso Robles, CA",
+      "postal_code": "93446",
+      "region": "CA",
+      "longitude": "-120.6293487"
+    },
+    "starts_at": "2025-06-20T19:30:00",
+    "festival_datetime_display_rule": "",
+    "description": "EVENTS PLAY RAIN OR SHINE For more information on Vina Robles Amphitheatre, please visit www.vinaroblesamphitheatre.com",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034840107?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-06-20T19:30:00",
+    "on_sale_datetime": "2025-04-04T10:00:00",
+    "sold_out": false,
+    "id": "1034840107",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1035115564?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "1800 Tulare St",
+      "country": "United States",
+      "city": "Fresno",
+      "latitude": "36.732101",
+      "name": "Chukchansi Park",
+      "location": "Fresno, CA",
+      "postal_code": "93721",
+      "region": "CA",
+      "longitude": "-119.7901958"
+    },
+    "starts_at": "2025-06-21T16:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": [
+      "Eslabon Armado",
+      "Los Rieleros del Norte",
+      "Los Tucanes de Tijuana",
+      "La Adictiva",
+      "Deorro",
+      "La Receta",
+      "Tapy Quintero"
+    ],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1035115564?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-06-21T16:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1035115564",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034678310?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "1733 Railroad Ave UNIT C",
+      "country": "United States",
+      "city": "Rifle",
+      "latitude": "39.5347",
+      "name": "Empire - CO",
+      "location": "Rifle, CO",
+      "postal_code": "81650",
+      "region": "CO",
+      "longitude": "-107.78312"
+    },
+    "starts_at": "2025-06-27T20:30:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034678310?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-06-27T20:30:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034678310",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034681816?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "510 25th St",
+      "country": "United States",
+      "city": "Garden City",
+      "latitude": "40.3968629",
+      "name": "El nuevo rodeo",
+      "location": "Garden City, CO",
+      "postal_code": "80631",
+      "region": "CO",
+      "longitude": "-104.6862444"
+    },
+    "starts_at": "2025-06-28T20:30:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034681816?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-06-28T20:30:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034681816",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034688315?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "225 Decatur St",
+      "country": "United States",
+      "city": "New Orleans",
+      "latitude": "29.95339180000001",
+      "name": "House of Blues New Orleans",
+      "location": "New Orleans, LA",
+      "postal_code": "70130-1015",
+      "region": "LA",
+      "longitude": "-90.0662834"
+    },
+    "starts_at": "2025-07-10T19:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "Doors: 7:00pm Show: 8:00pm All Ages Welcome House of Blues New Orleans is a cashless venue. Only credit cards, debit cards, and mobile pay are accepted at all venue point of purchase. Box Office is open 2 hours before Doors on show days and Friday's and Saturday's 2pm - 5pm. You may purchase tickets in person during those times. NOTE OUR BAG POLICY: Only the following bags are allowed: (maximum size: 12\"x6\"x12\") For VIP upgrades, please call/email: 504.310.4982 NOLAVIP@livenation.com",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034688315?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-07-10T19:00:00",
+    "on_sale_datetime": "2025-03-20T10:00:00",
+    "sold_out": false,
+    "id": "1034688315",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034547142?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "11903 Eastex Fwy",
+      "country": "United States",
+      "city": "Houston",
+      "latitude": "29.896763",
+      "name": "Escapade 2001",
+      "location": "Houston, TX",
+      "postal_code": "77039",
+      "region": "TX",
+      "longitude": "-95.318702"
+    },
+    "starts_at": "2025-07-11T21:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034547142?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-07-11T21:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034547142",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034684639?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "1135 S Lamar St Ste 101",
+      "country": "United States",
+      "city": "Dallas",
+      "latitude": "32.768777",
+      "name": "South Side Ballroom",
+      "location": "Dallas, TX",
+      "postal_code": "75215",
+      "region": "TX",
+      "longitude": "-96.797987"
+    },
+    "starts_at": "2025-07-12T20:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034684639?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-07-12T20:00:00",
+    "on_sale_datetime": "2025-03-20T10:00:00",
+    "sold_out": false,
+    "id": "1034684639",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034685257?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "2015 E Riverside Dr",
+      "country": "United States",
+      "city": "Austin",
+      "latitude": "30.2395789",
+      "name": "Emo's Austin",
+      "location": "Austin, TX",
+      "postal_code": "78741",
+      "region": "TX",
+      "longitude": "-97.7280066"
+    },
+    "starts_at": "2025-07-13T19:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034685257?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-07-13T19:00:00",
+    "on_sale_datetime": "2025-03-20T10:00:00",
+    "sold_out": false,
+    "id": "1034685257",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034302564?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "777 Chick Hearn Ct",
+      "country": "United States",
+      "city": "Los Angeles",
+      "latitude": "34.044403",
+      "name": "Peacock Theater",
+      "location": "Los Angeles, CA",
+      "postal_code": "90015",
+      "region": "CA",
+      "longitude": "-118.267087"
+    },
+    "starts_at": "2025-07-19T20:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034302564?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-07-19T20:00:00",
+    "on_sale_datetime": "2025-02-14T10:00:00",
+    "sold_out": false,
+    "id": "1034302564",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034688801?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "3950 S Las Vegas Blvd",
+      "country": "United States",
+      "city": "Las Vegas",
+      "latitude": "36.092975",
+      "name": "House of Blues Las Vegas",
+      "location": "Las Vegas, NV",
+      "postal_code": "89119",
+      "region": "NV",
+      "longitude": "-115.175543"
+    },
+    "starts_at": "2025-07-26T20:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "Door Time: 8:00 PM Room- Music Hall Ages: All Ages anyone under 16 must be accompanied by an adult 18+ with valid photo ID. Support: TBA All support acts are subject to change without notice. Special Offers: Complimentary admission to Foundation Room before or after the show with your show tickets. Valid on show day only. Must be 21+. Dress code enforced. Parking: Details and pricing available at: MandalayBay.com Join us for dinner and drinks before the show at our House of Blues Restaurant & Bar, make a reservation at HouseofBlues.com/LasVegas House of Blues Bag Policy Only bags measuring 12'' x 6'' x 12'' (or clutches measuring 4.5'' x 6.5'' ) will be allowed into the venue. All other bags will not be allowed into the venue and will need to be checked.",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034688801?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-07-26T20:00:00",
+    "on_sale_datetime": "2025-03-21T10:00:00",
+    "sold_out": false,
+    "id": "1034688801",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034305700?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "801 Convention Center Blvd.",
+      "country": "United States",
+      "city": "Mcallen",
+      "latitude": "26.200545",
+      "name": "McAllen Performing Arts Center",
+      "location": "McAllen, TX",
+      "postal_code": "78501",
+      "region": "TX",
+      "longitude": "-98.259145"
+    },
+    "starts_at": "2025-08-02T20:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "Regional Mexican Music Concert ** Ages 3 and above will require a ticket to enter **",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034305700?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-08-02T20:00:00",
+    "on_sale_datetime": "2025-02-14T10:00:00",
+    "sold_out": false,
+    "id": "1034305700",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034684871?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "2820 Industrial Dr,",
+      "country": "United States",
+      "city": "Raleigh",
+      "latitude": "35.8161648",
+      "name": "The Ritz",
+      "location": "Raleigh, NC",
+      "postal_code": "27609",
+      "region": "NC",
+      "longitude": "-78.6203233"
+    },
+    "starts_at": "2025-08-08T19:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "DOOR TIME (venue opens): 7:00 pm SHOW TIME (music starts) : 8:00 pm This event is ALL AGES The Ritz Is A General Admission Standing Room Only Venue. Seating is available as an upgrade to a general admission ticket. Please contact RITZPREMIUMSEATING@LiveNation.com for details All support acts subject to change without notice Box Office Hours: We open 2 hours before door time on any event night through the event. We can sell tickets for any future event we have inventory for. Questions? Call us! (919) 424-1400, Press (1) for Box Office",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034684871?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-08-08T19:00:00",
+    "on_sale_datetime": "2025-03-20T10:00:00",
+    "sold_out": false,
+    "id": "1034684871",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034684596?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "152 Luckie St NW",
+      "country": "United States",
+      "city": "Atlanta",
+      "latitude": "33.7587418",
+      "name": "Tabernacle",
+      "location": "Atlanta, GA",
+      "postal_code": "30303",
+      "region": "GA",
+      "longitude": "-84.39139310000002"
+    },
+    "starts_at": "2025-08-09T20:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "This is a show has a general admission standing room floor with fully reserved assigned seating balconies. All ages welcome. Box Office Open at 6pm. Doors at 7pm. Show at 8pm. Please be aware our balconies are not ADA accessible. All accommodations are located on the main floor level. There is no elevator in the building. Please ask event staff for any ADA assistance upon arrival.",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034684596?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-08-09T20:00:00",
+    "on_sale_datetime": "2025-03-20T10:00:00",
+    "sold_out": false,
+    "id": "1034684596",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034870123?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "1800 Rossville Ave #110",
+      "country": "United States",
+      "city": "Chattanooga",
+      "latitude": "35.04563",
+      "name": "Cabanas Latin Night Club",
+      "location": "Chattanooga, TN",
+      "postal_code": "37408",
+      "region": "TN",
+      "longitude": "-85.30968"
+    },
+    "starts_at": "2025-08-10T19:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034870123?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-08-10T19:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034870123",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034688091?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "1902 Blake St",
+      "country": "United States",
+      "city": "Denver",
+      "latitude": "39.7532404",
+      "name": "Summit Music Hall",
+      "location": "Denver, CO",
+      "postal_code": "80202",
+      "region": "CO",
+      "longitude": "-104.99510470000001"
+    },
+    "starts_at": "2025-08-14T19:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "DOORS: 7PM SHOW: 8PM THIS SHOW IS: ALL AGES All support acts are subject to change without notice.",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034688091?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-08-14T19:00:00",
+    "on_sale_datetime": "2025-03-20T10:00:00",
+    "sold_out": false,
+    "id": "1034688091",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034992649?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "1055 5th Ave",
+      "country": "United States",
+      "city": "San Diego",
+      "latitude": "32.7163773",
+      "name": "House of Blues San Diego",
+      "location": "San Diego, CA",
+      "postal_code": "92101",
+      "region": "CA",
+      "longitude": "-117.1596034"
+    },
+    "starts_at": "2025-08-22T19:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "All ages welcome. All persons under the age of 18 must be accompanied by a parent, guardian, or by a responsible adult 25 years of age or older who has written authorization from a parent or guardian. Doors: 7PM Show: 8PM *All times and supporting acts are subject to change",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034992649?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-08-22T19:00:00",
+    "on_sale_datetime": "2025-04-18T10:00:00",
+    "sold_out": false,
+    "id": "1034992649",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034992179?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "1055 5th Ave",
+      "country": "United States",
+      "city": "San Diego",
+      "latitude": "32.7163773",
+      "name": "House of Blues San Diego",
+      "location": "San Diego, CA",
+      "postal_code": "92101",
+      "region": "CA",
+      "longitude": "-117.1596034"
+    },
+    "starts_at": "2025-08-23T19:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "All ages welcome. All persons under the age of 18 must be accompanied by a parent, guardian, or by a responsible adult 25 years of age or older who has written authorization from a parent or guardian. Doors: 7PM Show: 8PM *All times and supporting acts are subject to change",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034992179?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-08-23T19:00:00",
+    "on_sale_datetime": "2025-04-18T10:00:00",
+    "sold_out": false,
+    "id": "1034992179",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034935338?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "4600 W Kellogg Dr,",
+      "country": "United States",
+      "city": "Wichita",
+      "latitude": "37.6778456",
+      "name": "54 West Music Hall",
+      "location": "Wichita, KS",
+      "postal_code": "67209",
+      "region": "KS",
+      "longitude": "-97.39994929999999"
+    },
+    "starts_at": "2025-09-05T21:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034935338?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-09-05T21:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034935338",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034825562?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "1010 South Dr",
+      "country": "United States",
+      "city": "Liberal",
+      "latitude": "37.04308",
+      "name": "Hacienda Music Hall",
+      "location": "Liberal, KS",
+      "postal_code": "67901",
+      "region": "KS",
+      "longitude": "-100.921"
+    },
+    "starts_at": "2025-09-06T21:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034825562?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-09-06T21:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034825562",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034644758?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "Calle Dakota",
+      "country": "Mexico",
+      "city": "Mexico City",
+      "latitude": "19.3934097",
+      "name": "Pepsi Center WTC",
+      "location": "Mexico City, Mexico",
+      "postal_code": "03810",
+      "region": "",
+      "longitude": "-99.1758118"
+    },
+    "starts_at": "2025-09-12T21:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "Eslabón Armado iluminará México con su Vibras de Noche Tour 16 DE MAYO ? AUDITORIO BANAMEX - MTY 12 DE SEPTIEMBRE - PEPSI CENTER ? CDMX 13 DE SEPTIEMBRE ? AUDITORIO TELMEX - GDL PREVENTA BANAMEX: JUEVES 13 DE MARZO / 11:00 AM El grupo de música regional mexicana, Eslabón Armado, anunció su primera gira la cual los llevará a recorrer los escenarios más importantes de México. El tour arrancará con todo en Monterrey, seguirá vibrando en Guadalajara y cerrará con broche de oro en Ciudad de México. Eslabón Armado fue el primer grupo de Música Mexicana en alcanzar el No. 1 en el Global 200 de Billboard. Escucha en vivo su último disco Amor Perdido en esta gira por México. Los boletos estarán disponibles en la Preventa Banamex a partir del 13 de marzo y un día después en las taquillas del inmueble o en Ticketmaster.",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034644758?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-09-12T21:00:00",
+    "on_sale_datetime": "2025-03-14T11:00:00",
+    "sold_out": false,
+    "id": "1034644758",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034644183?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "Obreros de Cananea 747",
+      "country": "Mexico",
+      "city": "Zapopan",
+      "latitude": "20.73192",
+      "name": "Auditorio Telmex",
+      "location": "Zapopan, Mexico",
+      "postal_code": "45157",
+      "region": "",
+      "longitude": "-103.3794099"
+    },
+    "starts_at": "2025-09-13T21:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "El grupo de música regional mexicana, Eslabón Armado, anunció su primera gira la cual los llevará a recorrer los escenarios más importantes de México. El tour arrancará con todo en Monterrey, seguirá vibrando en Guadalajara y cerrará con broche de oro en Ciudad de México. Eslabón Armado fue el primer grupo de Música Mexicana en alcanzar el No. 1 en el Global 200 de Billboard. La banda inició su trayectoria en 2017 como un trío, inspirándose en la música que escucharon durante su infancia, principalmente influenciados por los géneros ranchero y norteño de la generación de sus padres. Comenzaron a ganar reconocimiento al subir videos de sus interpretaciones a YouTube, lo que les abrió las puertas para ser descubiertos. En 2020, consolidaron su éxito con el lanzamiento de sus primeros sencillos, ?Con Tus Besos? y ?La Trokita?, los cuales alcanzaron los puestos 15 y 37 (respectivamente), en la lista Hot Latin Songs de Billboard.",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034644183?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-09-13T21:00:00",
+    "on_sale_datetime": "2025-03-14T11:00:00",
+    "sold_out": false,
+    "id": "1034644183",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1035299687?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "500 E Sheridan Ave",
+      "country": "United States",
+      "city": "Oklahoma City",
+      "latitude": "35.4662679",
+      "name": "The Criterion",
+      "location": "Oklahoma City, OK",
+      "postal_code": "73104",
+      "region": "OK",
+      "longitude": "-97.5037548"
+    },
+    "starts_at": "2025-09-26T20:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1035299687?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-09-26T20:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1035299687",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1035298936?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "3615 Steele Blvd",
+      "country": "United States",
+      "city": "Fayetteville",
+      "latitude": "36.1172895",
+      "name": "JJ's LIVE",
+      "location": "Fayetteville, AR",
+      "postal_code": "72703",
+      "region": "AR",
+      "longitude": "-94.15719159999999"
+    },
+    "starts_at": "2025-09-27T20:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1035298936?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-09-27T20:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1035298936",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034500098?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "5002 S 33rd St",
+      "country": "United States",
+      "city": "South Omaha",
+      "latitude": "41.21055",
+      "name": "Mayan Guaca",
+      "location": "South Omaha, NE",
+      "postal_code": "68107",
+      "region": "NE",
+      "longitude": "-95.96251"
+    },
+    "starts_at": "2025-10-03T21:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034500098?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-10-03T21:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034500098",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034502164?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "417 E Lake St",
+      "country": "United States",
+      "city": "Minneapolis",
+      "latitude": "44.9481836",
+      "name": "EME Antro Bar",
+      "location": "Minneapolis, MN",
+      "postal_code": "55408",
+      "region": "MN",
+      "longitude": "-93.2694619"
+    },
+    "starts_at": "2025-10-04T21:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034502164?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-10-04T21:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034502164",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1034502118?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "2101 Cornhusker Dr",
+      "country": "United States",
+      "city": "South Sioux City",
+      "latitude": "42.4697654",
+      "name": "El Ranchito Restaurant & Bar",
+      "location": "South Sioux City, NE",
+      "postal_code": "68776",
+      "region": "NE",
+      "longitude": "-96.42796320000001"
+    },
+    "starts_at": "2025-10-05T21:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1034502118?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-10-05T21:00:00",
+    "on_sale_datetime": "",
+    "sold_out": false,
+    "id": "1034502118",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1035167321?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "street_address": "79 Washington Street",
+      "country": "United States",
+      "city": "Providence",
+      "latitude": "41.82399",
+      "name": "The Strand Ballroom",
+      "location": "Providence, RI",
+      "postal_code": "02903",
+      "region": "RI",
+      "longitude": "-71.41283"
+    },
+    "starts_at": "2025-11-16T20:00:00",
+    "festival_datetime_display_rule": "",
+    "description": "",
+    "lineup": ["Eslabon Armado"],
+    "festival_start_date": "",
+    "bandsintown_plus": false,
+    "title": "",
+    "artist_id": "15368990",
+    "presale": "",
+    "url": "https://www.bandsintown.com/e/1035167321?app_id=7c181a04ee16c73b5d5cd448362f12a6&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "datetime_display_rule": "datetime",
+    "datetime": "2025-11-16T20:00:00",
+    "on_sale_datetime": "2025-05-01T10:12:00",
+    "sold_out": false,
+    "id": "1035167321",
+    "ends_at": "",
+    "free": false,
+    "festival_end_date": ""
+  }
+]
