@@ -25,8 +25,8 @@ const router = createRouter({
       component: () => import('../views/AboutView.vue'),
     },
     {
-      path: '/info',
-      name: 'info',
+      path: '/modal',
+      name: 'modal',
       component: () => import('../views/InfoView.vue'),
     },
     {

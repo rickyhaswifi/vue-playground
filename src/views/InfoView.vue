@@ -8,7 +8,7 @@ import { motion } from 'motion-v'
 </script>
 <template>
   <div class="relative">
-    <button @click="toggle" class="border border-amber-200 rounded">Open</button>
+    <button @click="toggle" class="border border-amber-200 rounded">Open Modal</button>
     <motion.section
       v-show="isOpen"
       :initial="{ opacity: 0, scale: 0, x: -100 }"

@@ -9,15 +9,15 @@ import LinkRouter from './components/LinkRouter.vue'
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Ricardo B" />
 
       <nav>
-        <LinkRouter link="/" title="Home" classStyle="nav-item" />
-        <LinkRouter link="/about" title="About" classStyle="nav-item" />
+        <LinkRouter link="/" title="Home REF" classStyle="nav-item" />
+        <LinkRouter link="/about" title="About local storage" classStyle="nav-item" />
         <LinkRouter link="/contact" title="Contact" classStyle="nav-item" />
-        <LinkRouter link="/events" title="Event" classStyle="nav-item" />
-        <LinkRouter link="/info" title="Info" classStyle="nav-item" />
-        <LinkRouter link="/ticket4" title="Ticket4" classStyle="nav-item" />
+        <LinkRouter link="/events" title="Event JSON" classStyle="nav-item" />
+        <LinkRouter link="/modal" title="Modal" classStyle="nav-item" />
+        <LinkRouter link="/ticket4" title="Ticket4 API" classStyle="nav-item" />
       </nav>
     </div>
   </header>
